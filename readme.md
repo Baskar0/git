@@ -11,3 +11,11 @@ This is a Git Tutorial (Commands in Terminal 👇)
 8.git log
 9.git add . (To add all file)
 10.git commit -m 'initial commit'
+
+This is creating a new branch 👇
+1.git branch bug
+2.git checkout bug
+3.git checkout -b feature
+(To save the changes)
+1.git add .
+2.git commit -m 'update readme'
