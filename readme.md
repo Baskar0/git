@@ -11,3 +11,5 @@ This is a Git Tutorial (Commands in Terminal 👇)
 8.git log
 9.git add . (To add all file)
 10.git commit -m 'initial commit'
+
+# This is from bug branch
