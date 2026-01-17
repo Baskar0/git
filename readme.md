@@ -19,3 +19,7 @@ This is creating a new branch 👇
 (To save the changes)
 1.git add .
 2.git commit -m 'update readme'
+
+# To push the branch to the github
+1.git push --set-upstream origin (new-bug)👈 branch name
+2.git push -u origin feature (In easy way to push branch)
