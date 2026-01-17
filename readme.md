@@ -23,3 +23,7 @@ This is creating a new branch 👇
 # To push the branch to the github
 1.git push --set-upstream origin (new-bug)👈 branch name
 2.git push -u origin feature (In easy way to push branch)
+# To save the file After any change
+a.git add .
+b.git commit -m 'update readme'
+3.git push
