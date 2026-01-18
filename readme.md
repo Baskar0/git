@@ -13,3 +13,9 @@ This is a Git Tutorial (Commands in Terminal 👇)
 10.git commit -m 'initial commit'
 
 # This is from bug branch
+
+Objective - new-bug changes has to be merged with main branch 
+Conflicts iruku
+main -> new-bug
+resolve conflicts
+new-bug -> main
