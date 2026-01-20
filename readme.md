@@ -12,6 +12,13 @@ This is a Git Tutorial (Commands in Terminal 👇)
 9.git add . (To add all file)
 10.git commit -m 'initial commit'
 
+# This is from bug branch
+
+Objective - new-bug changes has to be merged with main branch 
+Conflicts iruku
+main -> new-bug
+resolve conflicts
+new-bug -> main
 This is creating a new branch 👇
 1.git branch bug
 2.git checkout bug
